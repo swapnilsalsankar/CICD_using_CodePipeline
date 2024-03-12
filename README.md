@@ -2,6 +2,9 @@
 
 
 ![DevSecOps](code-pipeline/s1.png)
+![DevSecOps](code-pipeline/s2.png)
+![DevSecOps](code-pipeline/s3.png)
+![DevSecOps](code-pipeline/s4.png)
 
 **Overview**
 
