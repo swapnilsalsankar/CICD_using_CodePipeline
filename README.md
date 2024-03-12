@@ -1,9 +1,7 @@
 # CICD pipeline on AWS with CodePipeline
 
-![pipeline](dcode-pipeline/Screenshot 2024-02-14 at 1.02.14 PM.png)
-![pipeline](code-pipeline/Screenshot 2024-02-14 at 4.19.58 PM.png)
-![pipeline](code-pipeline/Screenshot 2024-02-14 at 2.25.42 PM.png)
-![pipeline](code-pipeline/Screenshot 2024-02-14 at 4.44.12 PM.png)
+
+![DevSecOps](code-pipeline/s1.png)
 
 **Overview**
 
