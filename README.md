@@ -30,31 +30,40 @@ Automated the installation and configuration of NGINX using buildspec YAML and a
 
 **Setup Instructions**
 
-Clone Repository: 
+**Clone Repository:** 
+
 Clone the repository from CodeCommit using appropriate credentials.
 
-Configure AWS Credentials: 
+**Configure AWS Credentials:** 
+
 Ensure that AWS credentials are properly configured with appropriate permissions.
 
-Set Up KMS Encryption:
+**Set Up KMS Encryption:**
+
 Configure KMS for encryption purposes to secure sensitive data.
 
-Create CodePipeline:
+**Create CodePipeline:**
+
 Set up a CodePipeline with appropriate stages for continuous integration and continuous deployment.
 
-Configure CodeBuild: 
+**Configure CodeBuild:** 
+
 Configure CodeBuild to build artifacts and run tests as per project requirements.
 
-Set Up CodeDeploy:
+**Set Up CodeDeploy:**
+
 Configure CodeDeploy for deployment orchestration, ensuring rollback capabilities and reliability.
 
-EC2 Configuration:
+**EC2 Configuration:**
+
 Provision EC2 instances and configure them with necessary security groups and IAM roles.
 
-Docker Image Deployment:
+**Docker Image Deployment:**
+
 Configure Docker image deployment to Amazon ECR, ensuring versioning and rollback capabilities.
 
-NGINX Configuration:
+**NGINX Configuration:**
+
 Use buildspec YAML and appspec files to automate the installation and configuration of NGINX on EC2 instances.
 
 **Usage**
