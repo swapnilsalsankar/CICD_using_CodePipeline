@@ -16,7 +16,7 @@ This project establishes a comprehensive CI/CD (Continuous Integration/Continuou
 
 Achieved a seamless integration process by incorporating CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
 
-******Security Measures: ******
+**Security Measures:**
 
 Implemented robust security measures using AWS Key Management Service (KMS) for data encryption, integration with S3 for artifact storage, and IAM policies to ensure data confidentiality and integrity, achieving a compliance rate of 95%.
 
@@ -24,7 +24,7 @@ Implemented robust security measures using AWS Key Management Service (KMS) for 
 
 Orchestrated the deployment of Docker images to Amazon Elastic Container Registry (ECR), incorporating rollback capabilities to maintain system reliability and reducing server provisioning time.
 
-****NGINX Installation and Configuration: ****
+**NGINX Installation and Configuration:**
 
 Automated the installation and configuration of NGINX using buildspec YAML and appspec files on EC2 instances for hosting web applications.
 
